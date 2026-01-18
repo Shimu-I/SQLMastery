@@ -9,6 +9,13 @@ Learning through multiple books and YouTube resources to master SQL..
 
 ---
 
+## Resources link
+1. [*CodeWithHarry*](https://youtu.be/yE6tIle64tU?si=Q62nvTrUuJF5k3xS)
+2. [*Data with Baraa*](https://youtu.be/SSKVgrwhzus?si=hNWh74G6n8ZotyWs)
+3. [*freeCodeCamp*](https://youtu.be/WXk7yDqsKxs?si=8IofOSlbycTWdw21)
+ 
+
+
 
 
 ## Study Record
